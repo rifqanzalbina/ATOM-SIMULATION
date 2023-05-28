@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Mukta:wght@200&&display=swap");
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  background-color: black;
+  color:white;
+}
+
+h1{
+    font-family: "Mukta", sans-serif;
+    letter-spacing: 8px;
+    top: 10px;
+    text-align:end;
+}
+select{
+    border: none;
+    background-color: #0c0c0c;
+}
+
+div{
+    font-size: 15px;
+    text-align: center;
+}
